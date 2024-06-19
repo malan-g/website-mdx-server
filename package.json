@@ -1,0 +1,24 @@
+{
+  "name": "website-mdx-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-three/drei": "^9.107.0",
+    "@react-three/fiber": "^8.16.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "esbuild": "^0.21.5",
+    "express": "^4.19.2",
+    "gray-matter": "^4.0.3",
+    "mdx-bundler": "^10.0.2",
+    "react": "^18.3.1",
+    "sass": "^1.77.6",
+    "three": "^0.165.0"
+  }
+}
